@@ -5,3 +5,6 @@
 [submodule "kindling"]
 	path = kindling
 	url = https://github.com/joshuamarie/kindling
+[submodule "tabstats"]
+	path = tabstats
+	url = https://github.com/joshuamarie/tabstats
