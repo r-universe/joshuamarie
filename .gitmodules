@@ -5,3 +5,8 @@
 [submodule "kindling"]
 	path = kindling
 	url = https://github.com/joshuamarie/kindling
+[submodule "vip"]
+	path = vip
+	url = https://github.com/cran/vip
+	branch = 0.4.6
+	registered = false

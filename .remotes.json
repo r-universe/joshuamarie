@@ -1,0 +1,9 @@
+[
+  {
+    "package": "vip",
+    "url": "https://github.com/cran/vip",
+    "via": ["kindling"],
+    "branch": "0.4.6",
+    "from": "kindling"
+  }
+]
